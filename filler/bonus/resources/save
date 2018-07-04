@@ -1,0 +1,489 @@
++
+flr_token[0].y = 1 flr_token[0].x = 3
++
+flr_token[0].y = 3 flr_token[0].x = 5
++
+flr_token[0].y = 3 flr_token[0].x = 3
++
+flr_token[0].y = 3 flr_token[0].x = 9
++
+flr_token[0].y = 3 flr_token[0].x = 11
++
+flr_token[0].y = 4 flr_token[0].x = 10
++
+flr_token[0].y = 4 flr_token[0].x = 11
++
+flr_token[0].y = 4 flr_token[0].x = 12
++
+flr_token[0].y = 6 flr_token[0].x = 11
++
+flr_token[0].y = 7 flr_token[0].x = 7
++
+flr_token[0].y = 8 flr_token[0].x = 12
++
+flr_token[0].y = 9 flr_token[0].x = 15
++
+flr_token[0].y = 6 flr_token[0].x = 15
++
+flr_token[0].y = 4 flr_token[0].x = 14
++
+flr_token[0].y = 3 flr_token[0].x = 12
++
+flr_token[0].y = 3 flr_token[0].x = 16
++
+flr_token[0].y = 3 flr_token[0].x = 13
++
+flr_token[0].y = 1 flr_token[0].x = 13
++
+flr_token[0].y = 1 flr_token[0].x = 16
++
+flr_token[0].y = 1 flr_token[0].x = 15
++
+flr_token[0].y = 6 flr_token[0].x = 16
++
+flr_token[0].y = 0 flr_token[0].x = 17
++
+flr_token[0].y = 10 flr_token[0].x = 12
++
+flr_token[0].y = 0 flr_token[0].x = 18
++
+flr_token[0].y = 6 flr_token[0].x = 17
++
+flr_token[0].y = 5 flr_token[0].x = 16
++
+flr_token[0].y = 7 flr_token[0].x = 13
++
+flr_token[0].y = 9 flr_token[0].x = 16
++
+flr_token[0].y = 10 flr_token[0].x = 17
++
+flr_token[0].y = 10 flr_token[0].x = 19
++
+flr_token[0].y = 11 flr_token[0].x = 18
++
+flr_token[0].y = 5 flr_token[0].x = 16
++
+flr_token[0].y = 9 flr_token[0].x = 18
++
+flr_token[0].y = 11 flr_token[0].x = 19
++
+flr_token[0].y = 13 flr_token[0].x = 19
++
+flr_token[0].y = 0 flr_token[0].x = 14
++
+flr_token[0].y = 13 flr_token[0].x = 17
++
+flr_token[0].y = 8 flr_token[0].x = 16
++
+flr_token[0].y = 11 flr_token[0].x = 23
++
+flr_token[0].y = 11 flr_token[0].x = 17
++
+flr_token[0].y = 10 flr_token[0].x = 21
++
+flr_token[0].y = 13 flr_token[0].x = 22
++
+flr_token[0].y = 13 flr_token[0].x = 22
++
+flr_token[0].y = 13 flr_token[0].x = 21
++
+flr_token[0].y = 12 flr_token[0].x = 11
++
+flr_token[0].y = 15 flr_token[0].x = 21
++
+flr_token[0].y = 15 flr_token[0].x = 20
++
+flr_token[0].y = 16 flr_token[0].x = 23
++
+flr_token[0].y = 9 flr_token[0].x = 19
++
+flr_token[0].y = 16 flr_token[0].x = 24
++
+flr_token[0].y = 17 flr_token[0].x = 24
++
+flr_token[0].y = 18 flr_token[0].x = 26
++
+flr_token[0].y = 17 flr_token[0].x = 22
++
+flr_token[0].y = 7 flr_token[0].x = 19
++
+flr_token[0].y = 18 flr_token[0].x = 27
++
+flr_token[0].y = 6 flr_token[0].x = 18
++
+flr_token[0].y = 18 flr_token[0].x = 26
++
+flr_token[0].y = 19 flr_token[0].x = 26
++
+flr_token[0].y = 18 flr_token[0].x = 27
++
+flr_token[0].y = 19 flr_token[0].x = 22
++
+flr_token[0].y = 18 flr_token[0].x = 26
++
+flr_token[0].y = 20 flr_token[0].x = 30
++
+flr_token[0].y = 20 flr_token[0].x = 26
++
+flr_token[0].y = 20 flr_token[0].x = 32
++
+flr_token[0].y = 20 flr_token[0].x = 30
++
+flr_token[0].y = 6 flr_token[0].x = 19
++
+flr_token[0].y = 21 flr_token[0].x = 30
++
+flr_token[0].y = 21 flr_token[0].x = 31
++
+flr_token[0].y = 19 flr_token[0].x = 32
++
+flr_token[0].y = 18 flr_token[0].x = 31
++
+flr_token[0].y = 16 flr_token[0].x = 32
++
+flr_token[0].y = 17 flr_token[0].x = 20
++
+flr_token[0].y = 13 flr_token[0].x = 19
++
+flr_token[0].y = 16 flr_token[0].x = 22
++
+flr_token[0].y = 18 flr_token[0].x = 20
++
+flr_token[0].y = 16 flr_token[0].x = 33
++
+flr_token[0].y = 14 flr_token[0].x = 31
++
+flr_token[0].y = 13 flr_token[0].x = 29
++
+flr_token[0].y = 13 flr_token[0].x = 27
++
+flr_token[0].y = 15 flr_token[0].x = 25
++
+flr_token[0].y = 13 flr_token[0].x = 25
++
+flr_token[0].y = 14 flr_token[0].x = 26
++
+flr_token[0].y = 12 flr_token[0].x = 27
++
+flr_token[0].y = 12 flr_token[0].x = 34
++
+flr_token[0].y = 13 flr_token[0].x = 27
++
+flr_token[0].y = 11 flr_token[0].x = 30
++
+flr_token[0].y = 12 flr_token[0].x = 31
++
+flr_token[0].y = 9 flr_token[0].x = 34
++
+flr_token[0].y = 11 flr_token[0].x = 26
++
+flr_token[0].y = 12 flr_token[0].x = 35
++
+flr_token[0].y = 11 flr_token[0].x = 32
++
+flr_token[0].y = 19 flr_token[0].x = 31
++
+flr_token[0].y = 17 flr_token[0].x = 35
++
+flr_token[0].y = 12 flr_token[0].x = 35
++
+flr_token[0].y = 9 flr_token[0].x = 39
++
+flr_token[0].y = 10 flr_token[0].x = 37
++
+flr_token[0].y = 21 flr_token[0].x = 24
++
+flr_token[0].y = 9 flr_token[0].x = 38
++
+flr_token[0].y = 10 flr_token[0].x = 24
++
+flr_token[0].y = 11 flr_token[0].x = 36
++
+flr_token[0].y = 11 flr_token[0].x = 36
++
+flr_token[0].y = 8 flr_token[0].x = 39
++
+flr_token[0].y = 0 flr_token[0].x = 12
++
+flr_token[0].y = 20 flr_token[0].x = 34
++
+flr_token[0].y = 11 flr_token[0].x = 35
++
+flr_token[0].y = 6 flr_token[0].x = 39
++
+flr_token[0].y = 12 flr_token[0].x = 29
++
+flr_token[0].y = 15 flr_token[0].x = 18
++
+flr_token[0].y = 15 flr_token[0].x = 31
++
+flr_token[0].y = 4 flr_token[0].x = 39
++
+flr_token[0].y = 3 flr_token[0].x = 39
++
+flr_token[0].y = 11 flr_token[0].x = 33
++
+flr_token[0].y = 2 flr_token[0].x = 39
++
+flr_token[0].y = 2 flr_token[0].x = 11
++
+flr_token[0].y = 17 flr_token[0].x = 15
++
+flr_token[0].y = 13 flr_token[0].x = 15
++
+flr_token[0].y = 0 flr_token[0].x = 11
++
+flr_token[0].y = 12 flr_token[0].x = 22
++
+flr_token[0].y = 3 flr_token[0].x = 13
++
+flr_token[0].y = 6 flr_token[0].x = 9
++
+flr_token[0].y = 14 flr_token[0].x = 36
++
+flr_token[0].y = 15 flr_token[0].x = 33
++
+flr_token[0].y = 14 flr_token[0].x = 34
++
+flr_token[0].y = 17 flr_token[0].x = 37
++
+flr_token[0].y = 20 flr_token[0].x = 36
++
+flr_token[0].y = 1 flr_token[0].x = 39
++
+flr_token[0].y = 19 flr_token[0].x = 36
++
+flr_token[0].y = 9 flr_token[0].x = 10
++
+flr_token[0].y = 18 flr_token[0].x = 15
++
+flr_token[0].y = 20 flr_token[0].x = 35
++
+flr_token[0].y = 0 flr_token[0].x = 10
++
+flr_token[0].y = 2 flr_token[0].x = 15
++
+flr_token[0].y = 1 flr_token[0].x = 3
++
+flr_token[0].y = 1 flr_token[0].x = 6
++
+flr_token[0].y = 3 flr_token[0].x = 10
++
+flr_token[0].y = 19 flr_token[0].x = 17
++
+flr_token[0].y = 0 flr_token[0].x = 39
++
+flr_token[0].y = 0 flr_token[0].x = 5
++
+flr_token[0].y = 3 flr_token[0].x = 0
++
+flr_token[0].y = 4 flr_token[0].x = 15
++
+flr_token[0].y = 0 flr_token[0].x = 6
++
+flr_token[0].y = 0 flr_token[0].x = 6
++
+flr_token[0].y = 2 flr_token[0].x = 10
++
+flr_token[0].y = 1 flr_token[0].x = 3
++
+flr_token[0].y = 0 flr_token[0].x = 5
++
+flr_token[0].y = 3 flr_token[0].x = 3
++
+flr_token[0].y = 0 flr_token[0].x = 6
++
+flr_token[0].y = 0 flr_token[0].x = 3
++
+flr_token[0].y = 3 flr_token[0].x = 4
++
+flr_token[0].y = 9 flr_token[0].x = 9
++
+flr_token[0].y = 0 flr_token[0].x = 2
++
+flr_token[0].y = 10 flr_token[0].x = 0
++
+flr_token[0].y = 4 flr_token[0].x = 4
++
+flr_token[0].y = 5 flr_token[0].x = 3
++
+flr_token[0].y = 0 flr_token[0].x = 1
++
+flr_token[0].y = 0 flr_token[0].x = 1
++
+flr_token[0].y = 5 flr_token[0].x = 12
++
+flr_token[0].y = 7 flr_token[0].x = 3
++
+flr_token[0].y = 5 flr_token[0].x = 0
++
+flr_token[0].y = 0 flr_token[0].x = 10
++
+flr_token[0].y = 5 flr_token[0].x = 1
++
+flr_token[0].y = 0 flr_token[0].x = 5
++
+flr_token[0].y = 5 flr_token[0].x = 3
++
+flr_token[0].y = 5 flr_token[0].x = 0
++
+flr_token[0].y = 8 flr_token[0].x = 0
++
+flr_token[0].y = 9 flr_token[0].x = 0
++
+flr_token[0].y = 10 flr_token[0].x = 2
++
+flr_token[0].y = 5 flr_token[0].x = 1
++
+flr_token[0].y = 10 flr_token[0].x = 11
++
+flr_token[0].y = 9 flr_token[0].x = 6
++
+flr_token[0].y = 0 flr_token[0].x = 0
++
+flr_token[0].y = 11 flr_token[0].x = 1
++
+flr_token[0].y = 0 flr_token[0].x = 0
++
+flr_token[0].y = 5 flr_token[0].x = 14
++
+flr_token[0].y = 6 flr_token[0].x = 5
++
+flr_token[0].y = 13 flr_token[0].x = 2
++
+flr_token[0].y = 22 flr_token[0].x = 32
++
+flr_token[0].y = 13 flr_token[0].x = 16
++
+flr_token[0].y = 14 flr_token[0].x = 30
++
+flr_token[0].y = 17 flr_token[0].x = 14
++
+flr_token[0].y = 11 flr_token[0].x = 6
++
+flr_token[0].y = 20 flr_token[0].x = 22
++
+flr_token[0].y = 7 flr_token[0].x = 9
++
+flr_token[0].y = 2 flr_token[0].x = 0
++
+flr_token[0].y = 13 flr_token[0].x = 0
++
+flr_token[0].y = 14 flr_token[0].x = 0
++
+flr_token[0].y = 10 flr_token[0].x = 6
++
+flr_token[0].y = 7 flr_token[0].x = 0
++
+flr_token[0].y = 6 flr_token[0].x = 6
++
+flr_token[0].y = 13 flr_token[0].x = 0
++
+flr_token[0].y = 8 flr_token[0].x = 1
++
+flr_token[0].y = 15 flr_token[0].x = 7
++
+flr_token[0].y = 16 flr_token[0].x = 13
++
+flr_token[0].y = 9 flr_token[0].x = 0
++
+flr_token[0].y = 13 flr_token[0].x = 3
++
+flr_token[0].y = 5 flr_token[0].x = 2
++
+flr_token[0].y = 14 flr_token[0].x = 8
++
+flr_token[0].y = 17 flr_token[0].x = 7
++
+flr_token[0].y = 16 flr_token[0].x = 2
++
+flr_token[0].y = 18 flr_token[0].x = 11
++
+flr_token[0].y = 15 flr_token[0].x = 1
++
+flr_token[0].y = 14 flr_token[0].x = 7
++
+flr_token[0].y = 7 flr_token[0].x = 0
++
+flr_token[0].y = 11 flr_token[0].x = 9
++
+flr_token[0].y = 15 flr_token[0].x = 7
++
+flr_token[0].y = 7 flr_token[0].x = 0
++
+flr_token[0].y = 8 flr_token[0].x = 2
++
+flr_token[0].y = 11 flr_token[0].x = 1
++
+flr_token[0].y = 16 flr_token[0].x = 0
++
+flr_token[0].y = 15 flr_token[0].x = 0
++
+flr_token[0].y = 19 flr_token[0].x = 1
++
+flr_token[0].y = 18 flr_token[0].x = 4
++
+flr_token[0].y = 9 flr_token[0].x = 3
++
+flr_token[0].y = 18 flr_token[0].x = 15
++
+flr_token[0].y = 19 flr_token[0].x = 3
++
+flr_token[0].y = 18 flr_token[0].x = 8
++
+flr_token[0].y = 14 flr_token[0].x = 30
++
+flr_token[0].y = 13 flr_token[0].x = 13
++
+flr_token[0].y = 20 flr_token[0].x = 5
++
+flr_token[0].y = 10 flr_token[0].x = 0
++
+flr_token[0].y = 20 flr_token[0].x = 0
++
+flr_token[0].y = 20 flr_token[0].x = 24
++
+flr_token[0].y = 13 flr_token[0].x = 0
++
+flr_token[0].y = 20 flr_token[0].x = 3
++
+flr_token[0].y = 18 flr_token[0].x = 9
++
+flr_token[0].y = 19 flr_token[0].x = 6
++
+flr_token[0].y = 19 flr_token[0].x = 11
++
+flr_token[0].y = 20 flr_token[0].x = 19
++
+flr_token[0].y = 20 flr_token[0].x = 33
++
+flr_token[0].y = 15 flr_token[0].x = 2
++
+flr_token[0].y = 19 flr_token[0].x = 17
++
+flr_token[0].y = 21 flr_token[0].x = 2
++
+flr_token[0].y = 21 flr_token[0].x = 2
++
+flr_token[0].y = 14 flr_token[0].x = 5
++
+flr_token[0].y = 12 flr_token[0].x = 0
++
+flr_token[0].y = 20 flr_token[0].x = 5
++
+flr_token[0].y = 20 flr_token[0].x = 27
++
+flr_token[0].y = 14 flr_token[0].x = 12
++
+flr_token[0].y = 21 flr_token[0].x = 10
++
+flr_token[0].y = 15 flr_token[0].x = 15
++
+flr_token[0].y = 16 flr_token[0].x = 19
++
+flr_token[0].y = 16 flr_token[0].x = 39
++
+flr_token[0].y = 17 flr_token[0].x = 3
++
+flr_token[0].y = 20 flr_token[0].x = 12
++
